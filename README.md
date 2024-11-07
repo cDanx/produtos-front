@@ -10,7 +10,7 @@ Estas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 * Flutter SDK instalado (versão 3.0 ou superior)
 * Dart SDK instalado
-* Backend do projeto rodando (https://github.com/daniel-pereira-silva/gerenciamento-de-produtos-backend)
+* Backend do projeto rodando (https://github.com/cDanx/produto-api.git)
 
 
 ### 🔧 Instalação e Execução Detalhada
@@ -18,7 +18,7 @@ Estas instruções permitirão que você obtenha uma cópia do projeto em opera�
 1. **Primeiro, certifique-se que o backend está rodando**
    ```bash
    # Clone e execute o backend primeiro:
-   git clone https://github.com/daniel-pereira-silva/gerenciamento-de-produtos-backend
+   git clone https://github.com/cDanx/produto-api.git
    cd projeto-backend
    # Siga as instruções do README do backend
    ```
